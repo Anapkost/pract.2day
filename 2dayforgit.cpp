@@ -121,10 +121,8 @@ initList(ht, 0, 8);
 show(ht);
 initList(hth, 3, 6);
 show(hth);
-
 Node* n = new Node();
 init(ha);
-
 pushNode(ho, ha);
 show(ho);
 pushNode(ht, ha);
